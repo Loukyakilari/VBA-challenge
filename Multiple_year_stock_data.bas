@@ -1,5 +1,5 @@
 
- Sub StockMarkerAnalysis()
+Sub StockMarketAnalysis()
 
 
     'Loop for worksheets
