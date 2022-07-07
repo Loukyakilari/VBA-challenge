@@ -1,5 +1,5 @@
-Attribute VB_Name = "Module1"
- Sub StockMarkerAnalysis()
+
+Sub StockMarketAnalysis()
 
 
     'Loop for worksheets
